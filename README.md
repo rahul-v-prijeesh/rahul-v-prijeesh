@@ -2,8 +2,6 @@
 
 ### Software Developer • AI & Automation Enthusiast • Software Builder
 
-🎓 **First year CSE student at TKM College of Engineering**
-
 I build practical software to solve real-world problems across education, construction, AI, automation, and infrastructure — with over **5+ years of hands-on experience** in coding and software development.
 
 I enjoy turning ideas into working applications, integrating APIs, experimenting with lightweight AI models, and understanding how systems work from the application layer down to the underlying infrastructure.
